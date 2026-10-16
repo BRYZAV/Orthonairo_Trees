@@ -1,6 +1,6 @@
 #NEXUS
 BEGIN TREES;
-	tree TREE1 = [&R] ((((((((((((4XZ8_A:0.0078603888,'Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.0065284255)[&bootstrap=100]:0.0788914932,'Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.0847404624)[&bootstrap=83]:0.0445775556,'Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.0936447233)[&bootstrap=100]:0.2677496791,('Nairoviridae sp.'[&Species="Nairoviridae sp.",Group="Thiafora"]:0.1245346005,'Nairoviridae sp.'[&Species="Nairoviridae sp.",Group="Thiafora"]:0.0000023315)[&bootstrap=100]:0.252637356)[&bootstrap=97]:0.1238977337,'Orthonairovirus thiaforaense'[&Species="Orthonairovirus thiaforaense",Group="Thiafora"]:0.2553684409)[&bootstrap=100]:0.3618776375,('Nairoviridae sp.'[&Species="Nairoviridae sp.",Group="Thiafora"]:0.0321460336,'Nairoviridae sp.'[&Species="Nairoviridae sp.",Group="Thiafora"]:0.029414117)[&bootstrap=100]:0.6499111471)[&bootstrap=99]:0.2218179207,((('Wufeng shrew orthonairovirus 3'[&Species="Wufeng shrew orthonairovirus 3",Group="Thiafora"]:0.4059869134,'Orthonairovirus sinense'[&Species="Orthonairovirus sinense",Group="Thiafora"]:0.2595380411)[&bootstrap=98]:0.1530047974,'Rodent orthonairovirus'[&Species="Rodent orthonairovirus",Group="Thiafora"]:0.5133006452)[&bootstrap=82]:0.0906112731,'protein Crocidura tanakae nairovirus 1'[&Species="protein Crocidura tanakae nairovirus 1",Group="Thiafora"]:0.490442464)[&bootstrap=100]:0.355535182)[&bootstrap=84]:0.0765321546,(('Cencurut virus'[&Species="Cencurut virus",Group="Thiafora"]:0.2500428246,'Yunnan shrew orthonairovirus 1'[&Species="Yunnan shrew orthonairovirus 1",Group="Thiafora"]:0.2269273785)[&bootstrap=93]:0.1295730207,(BUAR044[&Species="BUAR044",Group="Thiafora"]:0.0203214656,BUAR054[&Species="BUAR054",Group="Thiafora"]:0.0046751038)[&bootstrap=100,_pt_highlight="#859900"]:0.1163717869)[&bootstrap=100]:0.5543339269)[&bootstrap=99]:0.2428089835,WPS63669.1[&Species="Rasenna virus",Group="Hazara",_pt_hidden="true"]:1.0487108866)[&bootstrap=100]:0.551061017,(((((((('Orthonairovirus dugbeense'[&Species="Orthonairovirus dugbeense",Group="Dugbe"]:0.0542673373,'Orthonairovirus dugbeense'[&Species="Orthonairovirus dugbeense",Group="Dugbe"]:0.0000023197)[&bootstrap=100]:0.2953898826,'Kupe virus'[&Species="Kupe virus",Group="Dugbe"]:0.1960746498)[&bootstrap=100]:0.4443614348,('Nairobi sheep disease virus'[&Species="Nairobi sheep disease virus",Group="NSDV"]:0.2811125497,'Binzhou nariovirus'[&Species="Binzhou nariovirus"]:0.2353556965)[&bootstrap=99]:0.1195985371)[&bootstrap=99]:0.1520044674,'Gansu nairovirus'[&Species="Gansu nairovirus"]:0.7137600787)[&bootstrap=65]:0.0507172892,((('Tofla virus'[&Species="Tofla virus",Group="Hazara"]:0.0916714868,'Wetland virus'[&Species="Wetland virus",Group="Hazara"]:0.0907330023)[&bootstrap=100]:0.1821546329,'Meihua Mountain virus'[&Species="Meihua Mountain virus",Group="Hazara"]:0.2308980271)[&bootstrap=70]:0.0785561966,5A97_A:0.1614714946)[&bootstrap=100]:0.3542891453)[&bootstrap=46]:0.0805176016,((('Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0000028612,'Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0000010001)[&bootstrap=98]:0.0226311286,'Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0455547896)[&bootstrap=75]:0.0020422157,'Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0210229841)[&bootstrap=100,_pt_highlight="#2aa198"]:0.5339483259)[&bootstrap=36]:0.0245146388,'Meram virus'[&Species="Meram virus",Group="Hazara"]:0.5842699986)[&bootstrap=95]:0.1852398355,'Regana virus'[&Species="Regana virus",Group="Thiafora"]:1.0053608685)[&bootstrap=90]:0.2148849331)[&bootstrap=100]:0.3924767914,(('Taggert virus'[&Species="Taggert virus"]:0.1176472647,'Taggert virus'[&Species="Taggert virus",Group="Dera Ghazi Khan"]:0.0573452839)[&bootstrap=87]:0.1351023082,'Orthonairovirus sakhalinense'[&Species="Orthonairovirus sakhalinense"]:0.2034648976)[&bootstrap=100]:1.041847722):0.0834601117,(('Gossas virus'[&Species="Gossas virus"]:1.4573385314,'Kasokero virus'[&Species="Kasokero virus",Group="Qualyub"]:0.7132380767)[&bootstrap=100]:0.9718661902,('Nairoviridae sp.'[&Species="Nairoviridae sp."]:0.1149943337,'Gubbo nairovirus'[&Species="Gubbo nairovirus"]:0.0469226321)[&bootstrap=100]:0.8102493449)[&bootstrap=49]:0.0238067452);
+	tree TREE1 = [&R] ((((((((('Wufeng shrew orthonairovirus 2'[&Species="Wufeng shrew orthonairovirus 2",Group="Thiafora"]:0.1359583075,'Wufeng shrew orthonairovirus 3'[&Species="Wufeng shrew orthonairovirus 3",Group="Thiafora"]:0.1033430091)[&bootstrap=100]:0.0590208647,'Wufeng Crocidura attenuata orthonairovirus 1'[&Species="Wufeng Crocidura attenuata orthonairovirus 1",Group="Thiafora"]:0.1689353743)[&bootstrap=100]:0.2866194212,('Orthonairovirus sinense'[&Species="Orthonairovirus sinense",Group="Thiafora"]:0.2835299005,'Rodent orthonairovirus'[&Species="Rodent orthonairovirus",Group="Thiafora"]:0.2727969297)[&bootstrap=100]:0.178513378)[&bootstrap=100]:0.3944073617,(((BUAR044[&Species="BUAR044",Group="Thiafora"]:0.0113755514,BUAR054[&Species="BUAR054",Group="Thiafora"]:0.0088518252)[&bootstrap=100,_pt_highlight="#859900"]:0.1746697413,'Yunnan shrew orthonairovirus 1'[&Species="Yunnan shrew orthonairovirus 1",Group="Thiafora"]:0.196631909)[&bootstrap=100]:0.1268708193,'Cencurut virus'[&Species="Cencurut virus",Group="Thiafora"]:0.2477287099)[&bootstrap=100]:0.4518075471)[&bootstrap=91]:0.1079057544,((((('Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.1027703637,'Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.0917266507)[&bootstrap=90]:0.0236829769,'Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.1122285675)[&bootstrap=100]:0.0551983854,('Erve virus'[&Species="Erve virus",Group="Thiafora"]:0.1031227599,'Orthonairovirus erveense'[&Species="Orthonairovirus erveense",Group="Thiafora"]:0.0975851602)[&bootstrap=100]:0.0740857507)[&bootstrap=100]:0.1499394704,'Orthonairovirus thiaforaense'[&Species="Orthonairovirus thiaforaense",Group="Thiafora"]:0.2462530174)[&bootstrap=100]:0.0919958871,'Nairoviridae sp.'[&Species="Nairoviridae sp.",Group="Thiafora"]:0.2910087768)[&bootstrap=100]:0.3938864309)[&bootstrap=100]:0.2904398096,'Rasenna virus'[&Species="Rasenna virus",Group="Thiafora"]:0.8232460532)[&bootstrap=100]:0.3339711325,(('Regana virus'[&Species="Regana virus",Group="Thiafora"]:0.0647560809,'Regana virus'[&Species="Regana virus",Group="Thiafora"]:0.0466754836)[&bootstrap=100]:0.0464020257,('Regana virus'[&Species="Regana virus",Group="Thiafora"]:0.0792181183,'Regana virus'[&Species="Regana virus",Group="Thiafora"]:0.0698158711)[&bootstrap=67]:0.0258322717)[&bootstrap=100]:1.18743527)[&bootstrap=95]:0.1368787549,(((((('Wetland virus'[&Species="Wetland virus",Group="Hazara"]:0.0814926259,'Tofla virus'[&Species="Tofla virus",Group="Hazara"]:0.0704469256)[&bootstrap=100]:0.0932368317,('Hazara virus'[&Species="Hazara virus",Group="Hazara"]:0.1349095241,'Meihua Mountain virus'[&Species="Meihua Mountain virus",Group="Hazara"]:0.13274284)[&bootstrap=98]:0.0391968734)[&bootstrap=100]:0.1515845694,'Meram virus'[&Species="Meram virus",Group="Hazara"]:0.2647366833)[&bootstrap=100]:0.1380156056,(('Orthonairovirus dugbeense'[&Species="Orthonairovirus dugbeense",Group="Dugbe"]:0.0698113374,'Kupe virus'[&Species="Kupe virus",Group="Dugbe"]:0.0603220928)[&bootstrap=100]:0.3796184446,('Binzhou nariovirus'[&Species="Binzhou nariovirus"]:0.1810978639,'Nairobi sheep disease virus'[&Species="Nairobi sheep disease virus",Group="NSDV"]:0.174522813)[&bootstrap=100]:0.1209670581)[&bootstrap=48]:0.0526438413)[&bootstrap=45]:0.0482990068,'Gansu nairovirus'[&Species="Gansu nairovirus"]:0.3395673506)[&bootstrap=56]:0.07980585,(('Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0166728888,'Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0118426591)[&bootstrap=100]:0.0182364383,('Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0044747917,'Orthonairovirus haemorrhagiae'[&Species="Orthonairovirus haemorrhagiae",Group="CCHF"]:0.0014241177)[&bootstrap=98]:0.0082493607)[&bootstrap=100,_pt_highlight="#2aa198"]:0.4126785994)[&bootstrap=100]:0.2112729169):0.20979854545,((((('Vinegar Hill virus'[&Species="Vinegar Hill virus",Group="Dera Ghazi Khan"]:0.3356668284,'Abu Mina virus'[&Species="Abu Mina virus",Group="Dera Ghazi Khan"]:0.3328081613)[&bootstrap=100]:0.2839690262,'Sapphire II virus Sapphire II virus'[&Species="Sapphire II virus Sapphire II virus",Group="Dera Ghazi Khan"]:0.4983557379)[&bootstrap=100]:0.7239119006,(('Bandia virus'[&Species="Bandia virus"]:0.1578576041,'Qualyub virus'[&Species="Qualyub virus",Group="Qualyub"]:0.1411734086)[&bootstrap=100]:0.4747950975,'Kasokero virus'[&Species="Kasokero virus"]:0.637387103)[&bootstrap=100]:0.6087231777)[&bootstrap=100]:0.3661203611,'Gubbo nairovirus'[&Species="Gubbo nairovirus"]:0.9779504477)[&bootstrap=92]:0.1438311879,(('Clo Mor virus'[&Species="Clo Mor virus"]:0.0944508451,'Orthonairovirus sakhalinense'[&Species="Orthonairovirus sakhalinense"]:0.0906318342)[&bootstrap=100]:0.095609714,'Finch creek virus'[&Species="Finch creek virus"]:0.1636911215)[&bootstrap=100]:0.7334530678)[&bootstrap=100]:0.10150064775);
 	[peartree={
   "canvasBgColor": "#ebe8e2",
   "branchColor": "#050505",
@@ -62,8 +62,8 @@ BEGIN TREES;
   "axisTypefaceStyle": "",
   "axisLineWidth": "1",
   "legendTextColor": "#4b4b49",
-  "legendFontSize": "24",
-  "legendTypefaceKey": "Helvetica Neue",
+  "legendFontSize": "20",
+  "legendTypefaceKey": "",
   "legendTypefaceStyle": "",
   "rttAxisColor": "#4b4b49",
   "rttStatsBgColor": "#bfbcb9",
@@ -161,13 +161,13 @@ BEGIN TREES;
   "axisMinorInterval": "off",
   "axisMajorLabelFormat": "component",
   "axisMinorLabelFormat": "component",
-  "rttXOrigin": "interval",
-  "rttGridLines": "off",
-  "rttAspectRatio": "4:3",
+  "rttXOrigin": "data",
+  "rttGridLines": "both",
+  "rttAspectRatio": "fit",
   "rttStatsFontSize": "11",
   "rttRegressionStyle": "bigdash",
   "rttRegressionWidth": "1.5",
-  "rttResidBandShow": "residual",
+  "rttResidBandShow": "off",
   "rttResidBandStyle": "dash",
   "rttResidBandWidth": "0.5",
   "rttResidBandFillOpacity": "0.1",
@@ -177,9 +177,9 @@ BEGIN TREES;
   "rttAxisLineWidth": "1",
   "rttDateFormat": "yyyy-MM-dd",
   "rttMajorInterval": "auto",
-  "rttMinorInterval": "off",
-  "rttMajorLabelFormat": "partial",
-  "rttMinorLabelFormat": "off",
+  "rttMinorInterval": "auto",
+  "rttMajorLabelFormat": "component",
+  "rttMinorLabelFormat": "component",
   "nodeBarsEnabled": "off",
   "nodeBarsExtraEnabled": [
     "off",
@@ -333,7 +333,7 @@ BEGIN TREES;
       "colour": "#859900"
     },
     {
-      "id": "n58",
+      "id": "n46",
       "colour": "#2aa198"
     }
   ],
